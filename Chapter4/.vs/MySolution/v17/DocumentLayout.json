@@ -1,0 +1,93 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\Documents\\GitHub2\\ASP_NET_Core\\Chapter4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9D4650FA-A134-4A3E-9792-F7E8FE9F9F89}|MyProject\\MyProject.csproj|c:\\users\\hp\\documents\\github2\\asp_net_core\\chapter4\\myproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D4650FA-A134-4A3E-9792-F7E8FE9F9F89}|MyProject\\MyProject.csproj|solutionrelative:myproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D4650FA-A134-4A3E-9792-F7E8FE9F9F89}|MyProject\\MyProject.csproj|c:\\users\\hp\\documents\\github2\\asp_net_core\\chapter4\\myproject\\wwwroot\\demo.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9D4650FA-A134-4A3E-9792-F7E8FE9F9F89}|MyProject\\MyProject.csproj|solutionrelative:myproject\\wwwroot\\demo.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D4650FA-A134-4A3E-9792-F7E8FE9F9F89}|MyProject\\MyProject.csproj|c:\\users\\hp\\documents\\github2\\asp_net_core\\chapter4\\myproject\\myclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D4650FA-A134-4A3E-9792-F7E8FE9F9F89}|MyProject\\MyProject.csproj|solutionrelative:myproject\\myclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D4650FA-A134-4A3E-9792-F7E8FE9F9F89}|MyProject\\MyProject.csproj|c:\\users\\hp\\documents\\github2\\asp_net_core\\chapter4\\myproject\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9D4650FA-A134-4A3E-9792-F7E8FE9F9F89}|MyProject\\MyProject.csproj|solutionrelative:myproject\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MyClass.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitHub2\\ASP_NET_Core\\Chapter4\\MyProject\\MyClass.cs",
+              "RelativeDocumentMoniker": "MyProject\\MyClass.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\GitHub2\\ASP_NET_Core\\Chapter4\\MyProject\\MyClass.cs",
+              "RelativeToolTip": "MyProject\\MyClass.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T23:04:40.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitHub2\\ASP_NET_Core\\Chapter4\\MyProject\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "MyProject\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\HP\\Documents\\GitHub2\\ASP_NET_Core\\Chapter4\\MyProject\\Properties\\launchSettings.json",
+              "RelativeToolTip": "MyProject\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-26T22:48:28.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitHub2\\ASP_NET_Core\\Chapter4\\MyProject\\Program.cs",
+              "RelativeDocumentMoniker": "MyProject\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\GitHub2\\ASP_NET_Core\\Chapter4\\MyProject\\Program.cs",
+              "RelativeToolTip": "MyProject\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T22:47:34.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "demo.html",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitHub2\\ASP_NET_Core\\Chapter4\\MyProject\\wwwroot\\demo.html",
+              "RelativeDocumentMoniker": "MyProject\\wwwroot\\demo.html",
+              "ToolTip": "C:\\Users\\HP\\Documents\\GitHub2\\ASP_NET_Core\\Chapter4\\MyProject\\wwwroot\\demo.html",
+              "RelativeToolTip": "MyProject\\wwwroot\\demo.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-08-26T22:38:48.664Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
