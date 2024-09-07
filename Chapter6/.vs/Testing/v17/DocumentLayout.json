@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\Documents\\GitHub2\\ASP_NET_Core\\Chapter6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{37DC29E0-B28B-44BD-B758-DDC8DF11712B}|SimpleApp.Test\\SimpleApp.Test.csproj|c:\\users\\hp\\documents\\github2\\asp_net_core\\chapter6\\simpleapp.test\\homecontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37DC29E0-B28B-44BD-B758-DDC8DF11712B}|SimpleApp.Test\\SimpleApp.Test.csproj|solutionrelative:simpleapp.test\\homecontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2255BA1A-1C8F-4F28-AB0C-9E0B2901B72B}|SimpleApp\\SimpleApp.csproj|c:\\users\\hp\\documents\\github2\\asp_net_core\\chapter6\\simpleapp\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2255BA1A-1C8F-4F28-AB0C-9E0B2901B72B}|SimpleApp\\SimpleApp.csproj|solutionrelative:simpleapp\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2255BA1A-1C8F-4F28-AB0C-9E0B2901B72B}|SimpleApp\\SimpleApp.csproj|c:\\users\\hp\\documents\\github2\\asp_net_core\\chapter6\\simpleapp\\models\\idatasource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2255BA1A-1C8F-4F28-AB0C-9E0B2901B72B}|SimpleApp\\SimpleApp.csproj|solutionrelative:simpleapp\\models\\idatasource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitHub2\\ASP_NET_Core\\Chapter6\\SimpleApp.Test\\HomeControllerTests.cs",
+              "RelativeDocumentMoniker": "SimpleApp.Test\\HomeControllerTests.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\GitHub2\\ASP_NET_Core\\Chapter6\\SimpleApp.Test\\HomeControllerTests.cs",
+              "RelativeToolTip": "SimpleApp.Test\\HomeControllerTests.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAQwBcAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T16:28:59.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitHub2\\ASP_NET_Core\\Chapter6\\SimpleApp\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "SimpleApp\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\GitHub2\\ASP_NET_Core\\Chapter6\\SimpleApp\\Models\\Product.cs",
+              "RelativeToolTip": "SimpleApp\\Models\\Product.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAowB0AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T16:25:35.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IDataSource.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitHub2\\ASP_NET_Core\\Chapter6\\SimpleApp\\Models\\IDataSource.cs",
+              "RelativeDocumentMoniker": "SimpleApp\\Models\\IDataSource.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\GitHub2\\ASP_NET_Core\\Chapter6\\SimpleApp\\Models\\IDataSource.cs",
+              "RelativeToolTip": "SimpleApp\\Models\\IDataSource.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T16:24:39.892Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
