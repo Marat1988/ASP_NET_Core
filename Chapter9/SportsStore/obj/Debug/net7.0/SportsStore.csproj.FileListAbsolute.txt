@@ -758,5 +758,4 @@ C:\Users\HP\Documents\GitHub2\ASP_NET_Core\Chapter9\SportsStore\obj\Debug\net7.0
 C:\Users\HP\Documents\GitHub2\ASP_NET_Core\Chapter9\SportsStore\obj\Debug\net7.0\SportsStore.pdb
 C:\Users\HP\Documents\GitHub2\ASP_NET_Core\Chapter9\SportsStore\obj\Debug\net7.0\SportsStore.genruntimeconfig.cache
 C:\Users\HP\Documents\GitHub2\ASP_NET_Core\Chapter9\SportsStore\obj\Debug\net7.0\ref\SportsStore.dll
-C:\Users\HP\Documents\GitHub2\ASP_NET_Core\Chapter9\SportsStore\obj\Debug\net7.0\SportsStore.sourcelink.json
-C:\Users\HP\Documents\GitHub2\ASP_NET_Core\Chapter9\SportsStore\obj\Debug\net7.0\SportsSt.D81B86A7.Up2Date
+C:\Users\HP\Documents\GitHub2\ASP_NET_Core\Chapter9\SportsStore\obj\Debug\net7.0\SportsStore.csproj.CopyComplete
